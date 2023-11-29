@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tensorflow.keras" />
+          <option value="serializers.PostSerializer" />
+          <option value="my_settings" />
+          <option value="main.씨발" />
+          <option value="keras.preprocessing.sequence.pad_sequences" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
